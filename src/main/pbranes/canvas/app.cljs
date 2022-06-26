@@ -131,17 +131,6 @@
         (.arc ctx (+ 12.5 (* j 25)) (+ 12.5 (* i 25)) 10 0 (* Math/PI 2) true)
         (.stroke ctx)))))
 
-(comment
-  ;; = set! - Example 1 = 
-
-  (set! var-symbol expr)
-  ;; See also:
-  reset!
-  binding
-  alter-var-root
-  atom
-  )
-
 (defn ^:dev/after-load start []
   (println "start")
   (rdom/render [app] (.getElementById js/document "app")))
@@ -164,5 +153,5 @@
   (path-2d-example)
   (fill-style-example)
   (stroke-style-example)
-  ()
+  (prn "hello world")
   )
