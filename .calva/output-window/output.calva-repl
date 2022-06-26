@@ -1,0 +1,402 @@
+; Jacking in...
+; Starting Jack-in Terminal: npx.cmd shadow-cljs -d cider/cider-nrepl:0.27.4 watch :canvas
+; Jacking in...
+; Starting Jack-in Terminal: npx.cmd shadow-cljs -d cider/cider-nrepl:0.27.4 watch :canvas
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉shadow.user꞉>  ; Use `alt+enter` to evaluate
+; Creating cljs repl session...
+; Connecting cljs repl: shadow-cljs...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs, repl: :canvas
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Jack-in done.
+cljs꞉cljs.user꞉>  ; Use `alt+enter` to evaluate
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+clj꞉cljs.user꞉> 
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+clj꞉cljs.user꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/smiley-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/smiley-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/smiley-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/two-triangles-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/two-triangles-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#object[pbranes$canvas$app$clear_canvas]
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+(0 1 2 3)
+
+nil
+clj꞉pbranes.canvas.app꞉> 
+4
+clj꞉pbranes.canvas.app꞉> 
+(0 1 2 3)
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil) (nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil) (nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil) (nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil) (nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil) (nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil) (nil nil) (nil nil) (nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/qubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+()
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/qubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/qubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/qubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/qubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/qubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/quadradic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/qubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+; ------ WARNING - :undeclared-var -----------------------------------------------
+;  Resource: <eval>:1:2
+ Use of undeclared Var pbranes.canvas.app/cubic-bezier-example
+--------------------------------------------------------------------------------
+
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/cubic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/simple-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/rectangle-shape-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/triangle-path-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/quadradic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/quadradic-bezier-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/path-2d-example
+clj꞉pbranes.canvas.app꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+Failed to execute 'stroke' on 'CanvasRenderingContext2D': parameter 1 is not of type 'Path2D'.
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/path-2d-example
+clj꞉pbranes.canvas.app꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+Failed to execute 'stroke' on 'CanvasRenderingContext2D': parameter 1 is not of type 'Path2D'.
+clj꞉pbranes.canvas.app꞉> 
+nil
+; ------ REPL Error while processing ---------------------------------------------
+; [rectangle  (new js/Path2D)]
+no source by provide: pbranes.canvas.app
+{:provide pbranes.canvas.app}
+ExceptionInfo: no source by provide: pbranes.canvas.app
+	shadow.build.data/get-source-id-by-provide (data.clj:189)
+	shadow.build.data/get-source-id-by-provide (data.clj:184)
+	shadow.build.data/get-source-by-provide (data.clj:192)
+	shadow.build.data/get-source-by-provide (data.clj:191)
+	shadow.cljs.repl/repl-compile/fn--14948/fn--14949 (repl.clj:440)
+	shadow.cljs.repl/repl-compile/fn--14948 (repl.clj:416)
+	shadow.cljs.repl/repl-compile (repl.clj:414)
+	shadow.cljs.repl/repl-compile (repl.clj:411)
+	shadow.cljs.repl/process-read-result (repl.clj:502)
+	shadow.cljs.repl/process-read-result (repl.clj:478)
+	shadow.cljs.repl/process-input (repl.clj:641)
+	shadow.cljs.repl/process-input (repl.clj:619)
+	shadow.cljs.devtools.server.worker.impl/fn--15473 (impl.clj:698)
+	shadow.cljs.devtools.server.worker.impl/fn--15473 (impl.clj:688)
+	clojure.lang.MultiFn.invoke (MultiFn.java:234)
+	shadow.cljs.devtools.server.util/server-thread/fn--15147/fn--15148/fn--15156 (util.clj:269)
+	shadow.cljs.devtools.server.util/server-thread/fn--15147/fn--15148 (util.clj:268)
+	shadow.cljs.devtools.server.util/server-thread/fn--15147 (util.clj:241)
+	java.lang.Thread.run (:-1)
+
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/path-2d-example
+clj꞉pbranes.canvas.app꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+Failed to execute 'stroke' on 'CanvasRenderingContext2D': parameter 1 is not of type 'Path2D'.
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#object[Path2D [object Path2D]]
+clj꞉pbranes.canvas.app꞉> 
+:repl/exception!
+; 
+; Execution error (TypeError) at (<cljs repl>:1).
+Failed to execute 'rect' on 'Path2D': 4 arguments required, but only 0 present.
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/path-2d-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+clj꞉pbranes.canvas.app꞉> 
+nil
+; No available JS runtime.
+; See https://shadow-cljs.github.io/docs/UsersGuide.html#repl-troubleshooting
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/arc-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil) (nil nil nil) (nil nil nil) (nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/path-2d-example
+clj꞉pbranes.canvas.app꞉> 
+nil
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/fill-style-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/stroke-style-example
+clj꞉pbranes.canvas.app꞉> 
+:repl/print-error!
+; The result object failed to print. It is available via *1 if you want to interact with it.
+; The exception was: 
+; TypeError: Failed to execute 'arc' on 'CanvasRenderingContext2D': 5 arguments required, but only 4 present.
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/stroke-style-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil))
+clj꞉pbranes.canvas.app꞉> 
+#'pbranes.canvas.app/stroke-style-example
+clj꞉pbranes.canvas.app꞉> 
+((nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil)
+ (nil nil nil nil nil nil))
+clj꞉pbranes.canvas.app꞉> 

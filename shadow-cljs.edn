@@ -1,0 +1,13 @@
+;; shadow-cljs configuration
+{:source-paths
+ ["src/dev"
+  "src/main"
+  "src/test"]
+
+ :dependencies
+ [[reagent "1.1.1"]]
+ :dev-http {8020 "public"}
+ :builds 
+ {:canvas
+  {:target :browser
+   :modules {:main {:init-fn pbranes.canvas.app/init}}}}}
