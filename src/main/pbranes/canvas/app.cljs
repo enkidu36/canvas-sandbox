@@ -153,5 +153,4 @@
   (path-2d-example)
   (fill-style-example)
   (stroke-style-example)
-  (prn "hello world")
   )
